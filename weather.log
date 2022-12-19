@@ -1,0 +1,252 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=0 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=2 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=3 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=4 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=5 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=6 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=7 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=8 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=9 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=10 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=11 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=12 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=13 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=15 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=16 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=17 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=18 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=19 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=20 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=21 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=22 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=23 HTTP/1.1" 200 None
+INFO:root:Fetching Data for 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=0 HTTP/1.1" 200 None
+INFO:root:DataFrame for 0  Created
+INFO:root:Fetching Data for 1
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=1 HTTP/1.1" 200 None
+INFO:root:DataFrame for 1  Created
+INFO:root:Fetching Data for 2
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=2 HTTP/1.1" 200 None
+INFO:root:DataFrame for 2  Created
+INFO:root:Fetching Data for 3
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=3 HTTP/1.1" 200 None
+INFO:root:DataFrame for 3  Created
+INFO:root:Fetching Data for 4
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=4 HTTP/1.1" 200 None
+INFO:root:DataFrame for 4  Created
+INFO:root:Fetching Data for 5
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=5 HTTP/1.1" 200 None
+INFO:root:DataFrame for 5  Created
+INFO:root:Fetching Data for 6
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=6 HTTP/1.1" 200 None
+INFO:root:DataFrame for 6  Created
+INFO:root:Fetching Data for 7
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=7 HTTP/1.1" 200 None
+INFO:root:DataFrame for 7  Created
+INFO:root:Fetching Data for 8
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=8 HTTP/1.1" 200 None
+INFO:root:DataFrame for 8  Created
+INFO:root:Fetching Data for 9
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=9 HTTP/1.1" 200 None
+INFO:root:DataFrame for 9  Created
+INFO:root:Fetching Data for 10
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=10 HTTP/1.1" 200 None
+INFO:root:DataFrame for 10  Created
+INFO:root:Fetching Data for 11
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=11 HTTP/1.1" 200 None
+INFO:root:DataFrame for 11  Created
+INFO:root:Fetching Data for 12
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=12 HTTP/1.1" 200 None
+INFO:root:DataFrame for 12  Created
+INFO:root:Fetching Data for 13
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=13 HTTP/1.1" 200 None
+INFO:root:DataFrame for 13  Created
+INFO:root:Fetching Data for 14
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=14 HTTP/1.1" 200 None
+INFO:root:DataFrame for 14  Created
+INFO:root:Fetching Data for 15
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=15 HTTP/1.1" 200 None
+INFO:root:DataFrame for 15  Created
+INFO:root:Fetching Data for 16
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=16 HTTP/1.1" 200 None
+INFO:root:DataFrame for 16  Created
+INFO:root:Fetching Data for 17
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=17 HTTP/1.1" 200 None
+INFO:root:DataFrame for 17  Created
+INFO:root:Fetching Data for 18
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=18 HTTP/1.1" 200 None
+INFO:root:DataFrame for 18  Created
+INFO:root:Fetching Data for 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=19 HTTP/1.1" 200 None
+INFO:root:DataFrame for 19  Created
+INFO:root:Fetching Data for 20
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=20 HTTP/1.1" 200 None
+INFO:root:DataFrame for 20  Created
+INFO:root:Fetching Data for 21
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=21 HTTP/1.1" 200 None
+INFO:root:DataFrame for 21  Created
+INFO:root:Fetching Data for 22
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=22 HTTP/1.1" 200 None
+INFO:root:DataFrame for 22  Created
+INFO:root:Fetching Data for 23
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=23 HTTP/1.1" 200 None
+INFO:root:DataFrame for 23  Created
+INFO:root:Data Fetching Completed! 
+INFO:root:Mongo DB connection Established
+INFO:root:Data successfully inserted into WeatherDB Boston collection
+INFO:root:Mongo DB connection Established
+INFO:root:Database(MongoClient(host=['ac-5yreoxx-shard-00-02.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-01.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-00.66kio56.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-vzzb0c-shard-0', tls=True), 'WeatherDB')
+INFO:root:Collection(Database(MongoClient(host=['ac-5yreoxx-shard-00-02.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-01.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-00.66kio56.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-vzzb0c-shard-0', tls=True), 'WeatherDB'), 'Boston')
+INFO:root:Data successfully inserted into weatherDB Boston collection 
+INFO:root:Fetching Data for 0
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=0 HTTP/1.1" 200 None
+INFO:root:DataFrame for 0  Created
+INFO:root:Fetching Data for 1
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=1 HTTP/1.1" 200 None
+INFO:root:DataFrame for 1  Created
+INFO:root:Fetching Data for 2
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=2 HTTP/1.1" 200 None
+INFO:root:DataFrame for 2  Created
+INFO:root:Fetching Data for 3
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=3 HTTP/1.1" 200 None
+INFO:root:DataFrame for 3  Created
+INFO:root:Fetching Data for 4
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=4 HTTP/1.1" 200 None
+INFO:root:DataFrame for 4  Created
+INFO:root:Fetching Data for 5
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=5 HTTP/1.1" 200 None
+INFO:root:DataFrame for 5  Created
+INFO:root:Fetching Data for 6
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=6 HTTP/1.1" 200 None
+INFO:root:DataFrame for 6  Created
+INFO:root:Fetching Data for 7
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=7 HTTP/1.1" 200 None
+INFO:root:DataFrame for 7  Created
+INFO:root:Fetching Data for 8
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=8 HTTP/1.1" 200 None
+INFO:root:DataFrame for 8  Created
+INFO:root:Fetching Data for 9
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=9 HTTP/1.1" 200 None
+INFO:root:DataFrame for 9  Created
+INFO:root:Fetching Data for 10
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=10 HTTP/1.1" 200 None
+INFO:root:DataFrame for 10  Created
+INFO:root:Fetching Data for 11
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=11 HTTP/1.1" 200 None
+INFO:root:DataFrame for 11  Created
+INFO:root:Fetching Data for 12
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=12 HTTP/1.1" 200 None
+INFO:root:DataFrame for 12  Created
+INFO:root:Fetching Data for 13
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=13 HTTP/1.1" 200 None
+INFO:root:DataFrame for 13  Created
+INFO:root:Fetching Data for 14
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=14 HTTP/1.1" 200 None
+INFO:root:DataFrame for 14  Created
+INFO:root:Fetching Data for 15
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=15 HTTP/1.1" 200 None
+INFO:root:DataFrame for 15  Created
+INFO:root:Fetching Data for 16
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=16 HTTP/1.1" 200 None
+INFO:root:DataFrame for 16  Created
+INFO:root:Fetching Data for 17
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=17 HTTP/1.1" 200 None
+INFO:root:DataFrame for 17  Created
+INFO:root:Fetching Data for 18
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=18 HTTP/1.1" 200 None
+INFO:root:DataFrame for 18  Created
+INFO:root:Fetching Data for 19
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=19 HTTP/1.1" 200 None
+INFO:root:DataFrame for 19  Created
+INFO:root:Fetching Data for 20
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=20 HTTP/1.1" 200 None
+INFO:root:DataFrame for 20  Created
+INFO:root:Fetching Data for 21
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=21 HTTP/1.1" 200 None
+INFO:root:DataFrame for 21  Created
+INFO:root:Fetching Data for 22
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=22 HTTP/1.1" 200 None
+INFO:root:DataFrame for 22  Created
+INFO:root:Fetching Data for 23
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.weatherapi.com:80
+DEBUG:urllib3.connectionpool:http://api.weatherapi.com:80 "GET /v1/history.json?key=d3edeb18cc334f2ba59225636221712&q=Boston&dt=2022-12-16&hour=23 HTTP/1.1" 200 None
+INFO:root:DataFrame for 23  Created
+INFO:root:Data Fetching Completed! 
+INFO:root:Mongo DB connection Established
+INFO:root:Database(MongoClient(host=['ac-5yreoxx-shard-00-02.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-01.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-00.66kio56.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-vzzb0c-shard-0', tls=True), 'WeatherDB')
+INFO:root:Collection(Database(MongoClient(host=['ac-5yreoxx-shard-00-02.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-01.66kio56.mongodb.net:27017', 'ac-5yreoxx-shard-00-00.66kio56.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-vzzb0c-shard-0', tls=True), 'WeatherDB'), 'Boston')
+INFO:root:Data successfully inserted into weatherDB Boston collection 
